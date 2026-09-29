@@ -264,5 +264,5 @@ setHeight()
 
 ---
 
-![Hasil Program](.Screenshot (35).png)
+![Hasil Program](Screenshot (35).png)
 
